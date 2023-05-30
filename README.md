@@ -44,7 +44,5 @@ There are several potential areas for future improvement and research in this pr
 
 If you have any questions, suggestions, or improvements, feel free to reach out or open an issue in this repository. Contributions are also welcome!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
